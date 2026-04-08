@@ -65,7 +65,7 @@ A lo largo de los notebooks y documentos se desarrollan temas como:
 | [Frecuencia+y+Distribución.ipynb](./Frecuencia+y+Distribución.ipynb) | Análisis de frecuencias y distribuciones |
 | [Gaussiana.ipynb](./Gaussiana.ipynb) | Estudio de la distribución normal |
 | [Probabilidad_densidad_normal.ipynb](./Probabilidad_densidad_normal.ipynb) | Función de densidad normal |
-| [Simulación normal.ipynb](./Simulación%20normal.ipynb) Simulación de la distribución normal |
+| [Simulación normal.ipynb](./Simulación%20normal.ipynb) | Simulación de la distribución normal |
 | [Muestreo_NumPy.ipynb](./Muestreo_NumPy.ipynb) | Generación de muestras aleatorias |
 | [Simulación_de_Variables_Aleatorias_(Muestreo...).ipynb](./Simulación_de_Variables_Aleatorias_(Muestreo...).ipynb) | Simulación de variables aleatorias |
 | [Simulación de variables aleatorias y aproximaciones.ipynb](./Simulación%de%variables%aleatorias%y%aproximaciones.ipynb) | Aproximaciones numéricas |
