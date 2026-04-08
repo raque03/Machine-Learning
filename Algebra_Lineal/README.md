@@ -61,11 +61,11 @@ Dentro del módulo se desarrollan temas como:
 
 | Archivo | Descripción |
 |---|---|
-| `ALPython.ipynb` | Introducción al entorno de trabajo y conceptos base de álgebra lineal. |
-| `Algebra_Lineal_vectores.ipynb` | Operaciones con vectores y visualización geométrica. |
-| `Módulo_SymPy.ipynb` | Manipulación simbólica de expresiones matemáticas. |
-| `Sistemas_de_ecuaciones.ipynb` | Resolución e interpretación de sistemas lineales. |
-| `Subespacios_fundamentales.ipynb` | Estudio estructural de matrices y subespacios. |
+| [ALPython.ipynb](./ALPython.ipynb) | Introducción al entorno de trabajo y conceptos base de álgebra lineal. |
+| [Algebra_Lineal_vectores.ipynb](./Algebra_Lineal_vectores.ipynb) | Operaciones con vectores y visualización geométrica. |
+| [Módulo_SymPy.ipynb](./Módulo_SymPy.ipynb) | Manipulación simbólica de expresiones matemáticas. |
+| [Sistemas_de_ecuaciones.ipynb](./Sistemas_de_ecuaciones.ipynb) | Resolución e interpretación de sistemas lineales. |
+| [Subespacios_fundamentales.ipynb](./Subespacios_fundamentales.ipynb) | Estudio estructural de matrices y subespacios. |
 
 ---
 
