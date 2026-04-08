@@ -80,13 +80,13 @@ A lo largo de los notebooks y documentos se desarrollan temas como:
 
 | Archivo | Descripción |
 |---|---|
-| [Notas TCL.pdf](./Notas TCL.pdf) | Teorema Central del Límite |
+| [Notas TCL.pdf](./Notas%TCL.pdf) | Teorema Central del Límite |
 | [TCLPf.pdf](./TCLPf.pdf) | Aplicaciones del TCL |
 | [LGNyTCL.pdf](./LGNyTCL.pdf) | Ley de los Grandes Números y TCL |
 | [Lèvy.pdf](./Lèvy.pdf) | Convergencia en distribución |
 | [ECyM.pdf](./ECyM.pdf) | Esperanza, varianza y momentos |
 | [Débil.pdf](./Débil.pdf) | Convergencia débil |
-| [Soluciones Sucesiones.pdf](./Soluciones Sucesiones.pdf) | Resolución de ejercicios |
+| [Soluciones Sucesiones.pdf](./Soluciones%Sucesiones.pdf) | Resolución de ejercicios |
 | [Solución_Proba_1.pdf](./Solución_Proba_1.pdf) | Solución de práctica |
 
 ---
