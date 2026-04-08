@@ -84,9 +84,7 @@ Generaliza la regla de la cadena tradicional, incorporando un término adicional
 
 Se estudian modelos de la forma:
 
-\[
-dX_t = b(X_t)dt + \sigma(X_t)dB_t
-\]
+`dXₜ = b(Xₜ) dt + σ(Xₜ) dBₜ`
 
 los cuales permiten describir sistemas dinámicos con ruido aleatorio.
 
