@@ -40,9 +40,9 @@ Se trabajan desde conceptos básicos hasta modelos más avanzados utilizados en 
 
 | Archivo | Descripción |
 |---|---|
-| [Series de tiempo 01.ipynb](./Series de tiempo 01.ipynb) | Análisis exploratorio de series de tiempo |
-| [Autorregresivo 1.ipynb](./Autorregresivo 1.ipynb) | Implementación de modelo AR(1) |
-| [Moving  Average MA.ipynb](./Moving  Average MA.ipynb) | Modelos de media móvil (MA) |
+| [Series de tiempo 01.ipynb](./Seriesdetiempo 01.ipynb) | Análisis exploratorio de series de tiempo |
+| [Autorregresivo 1.ipynb](./Autorregresivo1.ipynb) | Implementación de modelo AR(1) |
+| [Moving  Average MA.ipynb](./MovingAverageMA.ipynb) | Modelos de media móvil (MA) |
 | [GARCH.ipynb](./GARCH.ipynb) | Modelado de volatilidad con GARCH |
 | [Procesos_GARCH.ipynb](./Procesos_GARCH.ipynb) | Profundización en procesos GARCH |
 
