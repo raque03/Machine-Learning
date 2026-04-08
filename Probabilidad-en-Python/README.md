@@ -60,15 +60,15 @@ A lo largo de los notebooks y documentos se desarrollan temas como:
 
 | Archivo | Descripción |
 |---|---|
-| [Probabilidad en Python.ipynb](./Probabilidad en Python.ipynb) | Introducción general a la probabilidad en Python |
-| [Cálculo de Probabilidades.ipynb](./Cálculo de Probabilidades.ipynb) | Ejercicios básicos de probabilidad |
+| [Probabilidad en Python.ipynb](./Probabilidad%en%Python.ipynb) | Introducción general a la probabilidad en Python |
+| [Cálculo de Probabilidades.ipynb](./Cálculo%de%Probabilidades.ipynb) | Ejercicios básicos de probabilidad |
 | [Frecuencia+y+Distribución.ipynb](./Frecuencia+y+Distribución.ipynb) | Análisis de frecuencias y distribuciones |
 | [Gaussiana.ipynb](./Gaussiana.ipynb) | Estudio de la distribución normal |
 | [Probabilidad_densidad_normal.ipynb](./Probabilidad_densidad_normal.ipynb) | Función de densidad normal |
-| [Simulación normal.ipynb](./Simulación normal.ipynb) | Simulación de la distribución normal |
+| [Simulación normal.ipynb](./Simulación%20normal.ipynb) Simulación de la distribución normal |
 | [Muestreo_NumPy.ipynb](./Muestreo_NumPy.ipynb) | Generación de muestras aleatorias |
 | [Simulación_de_Variables_Aleatorias_(Muestreo...).ipynb](./Simulación_de_Variables_Aleatorias_(Muestreo...).ipynb) | Simulación de variables aleatorias |
-| [Simulación de variables aleatorias y aproximaciones.ipynb](./Simulación de variables aleatorias y aproximaciones.ipynb) | Aproximaciones numéricas |
+| [Simulación de variables aleatorias y aproximaciones.ipynb](./Simulación%de%variables%aleatorias%y%aproximaciones.ipynb) | Aproximaciones numéricas |
 | [Variación_de_la_muestra.ipynb](./Variación_de_la_muestra.ipynb) | Comportamiento de muestras |
 | [Ruina_del_jugador.ipynb](./Ruina_del_jugador.ipynb) | Modelo probabilístico clásico |
 | [Ejercicios_clase0.ipynb](./Ejercicios_clase0.ipynb) | Ejercicios prácticos |
