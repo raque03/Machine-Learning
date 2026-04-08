@@ -2,7 +2,7 @@
 
 ---
 
-> 📊 Análisis, procesamiento y modelado de datos utilizando herramientas de ciencia de datos en Python.
+> 📊 Procesamiento, análisis y manejo de datos utilizando Python, bases de datos y técnicas de análisis aplicado.
 
 ---
 
@@ -18,9 +18,11 @@
 
 ## Contenido del repositorio
 
-Este repositorio reúne notebooks y material práctico enfocado en **ciencia de datos**, abarcando desde el procesamiento de datos hasta su análisis y modelado.
+Este repositorio contiene material práctico de **ciencia de datos**, enfocado en el análisis de información, manipulación de datos y uso de bases de datos.
 
-Se utilizan herramientas comunes del ecosistema de Python para trabajar con datasets reales y generar insights.
+Se integran diferentes herramientas dentro del flujo de trabajo, incluyendo procesamiento con pandas, análisis de datos reales (IMDB) y uso de bases de datos relacionales y no relacionales.
+
+El enfoque es aplicado, trabajando directamente con datasets y desarrollando análisis dentro de notebooks.
 
 ---
 
@@ -30,27 +32,26 @@ Se utilizan herramientas comunes del ecosistema de Python para trabajar con data
 
 | Archivo | Descripción |
 |---|---|
-| [Pandas.ipynb](./Pandas.ipynb) | Manipulación y limpieza de datos con pandas |
-| [Numpy.ipynb](./Numpy.ipynb) | Operaciones numéricas y estructuras de datos |
-| [Data Wrangling.ipynb](./DataWrangling.ipynb) | Procesamiento y transformación de datos |
+| [PANDAS.ipynb](./PANDAS.ipynb) | Manipulación, limpieza y análisis de datos con pandas |
+| [SENTIMENT_Pelis.ipynb](./SENTIMENT_Pelis.ipynb) | Análisis aplicado sobre datos de películas (IMDB) |
 
 ---
 
-### ✦ Visualización
+### ✦ Bases de datos
 
 | Archivo | Descripción |
 |---|---|
-| [Matplotlib.ipynb](./Matplotlib.ipynb) | Visualización básica de datos |
-| [Seaborn.ipynb](./Seaborn.ipynb) | Visualización avanzada y análisis gráfico |
+| [MongoDB.ipynb](./MongoDB.ipynb) | Introducción al uso de bases de datos NoSQL |
+| [PyMongo.ipynb](./PyMongo.ipynb) | Conexión y operaciones con MongoDB desde Python |
 
 ---
 
-### ✦ Análisis aplicado
+### ✦ Datos utilizados
 
 | Archivo | Descripción |
 |---|---|
-| [EDA.ipynb](./EDA.ipynb) | Análisis exploratorio de datos |
-| [Proyecto.ipynb](./Proyecto.ipynb) | Aplicación práctica integrando análisis y visualización |
+| [IMDB.sqlite](./IMDB.sqlite) | Base de datos relacional utilizada para análisis |
+| [IMDB-Movie-Data.csv](./IMDB-Movie-Data.csv) | Dataset de películas utilizado en los notebooks |
 
 ---
 
@@ -58,25 +59,25 @@ Se utilizan herramientas comunes del ecosistema de Python para trabajar con data
 
 ### 📌 Manipulación de datos
 
-Uso de herramientas para limpiar, transformar y estructurar datos.
+Uso de herramientas como pandas para limpiar, estructurar y preparar datasets para análisis.
 
 ---
 
-### 📌 Análisis exploratorio (EDA)
+### 📌 Análisis de datos
 
-Exploración inicial de datos para detectar patrones, anomalías y relaciones.
-
----
-
-### 📌 Visualización
-
-Representación gráfica de datos para facilitar su interpretación.
+Exploración de información para detectar patrones, relaciones y tendencias dentro de los datos.
 
 ---
 
-### 📌 Flujo de ciencia de datos
+### 📌 Bases de datos relacionales y NoSQL
 
-Desde la obtención de datos hasta la generación de insights.
+Se trabaja con SQLite y MongoDB para entender diferentes formas de almacenamiento y consulta de datos.
+
+---
+
+### 📌 Integración de herramientas
+
+Se combinan múltiples tecnologías dentro de un mismo flujo de trabajo de ciencia de datos.
 
 ---
 
@@ -84,10 +85,11 @@ Desde la obtención de datos hasta la generación de insights.
 
 El contenido está orientado a:
 
-- Trabajar con datos reales  
-- Limpiar y transformar datasets  
-- Visualizar información  
-- Obtener insights a partir de datos  
+- Analizar datos reales (IMDB)  
+- Trabajar con diferentes tipos de bases de datos  
+- Manipular datos utilizando Python  
+- Desarrollar análisis dentro de notebooks  
+- Integrar múltiples herramientas en un flujo práctico  
 
 ---
 
@@ -96,9 +98,9 @@ El contenido está orientado a:
 <p>
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-blue"/>
-<img src="https://img.shields.io/badge/Seaborn-Statistical-blue"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyMongo-Database-green"/>
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white"/>
 </p>
 
